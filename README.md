@@ -11,3 +11,6 @@ This is an Android application that displays a list of items using `RecyclerView
 - Populate the `RecyclerView` with sample data, including titles and descriptions.
 - Implement a click listener for `RecyclerView` items that shows a toast message with the title of the clicked item.
 
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/2e749488-db1e-451b-a00d-f2d47533dfc9" />
+
